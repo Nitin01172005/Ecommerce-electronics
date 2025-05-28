@@ -3,6 +3,7 @@ import Slider from 'react-slick';
 import Image1 from '../assets/headphone.png'
 import Image2 from '../assets/macbook.png'
 import Image3 from '../assets/vr.png'
+import "slick-carousel/slick/slick.css";
 
 const HeroData = [ 
   {

@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import LightPic from '../assets/light-mode-button.png';
 import DarkPic from '../assets/dark-mode-button.png';
+import "slick-carousel/slick/slick.css";
+
 
 
 

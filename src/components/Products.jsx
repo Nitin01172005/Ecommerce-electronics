@@ -6,7 +6,7 @@ import Img4 from '../assets/p-7.jpg';
 import Img5 from '../assets/p-2.jpg';
 import Img6 from '../assets/p-3.jpg';
 import Img7 from '../assets/p-4.jpg';
-
+import "slick-carousel/slick/slick.css";
 
 const ProductsData = [
   {

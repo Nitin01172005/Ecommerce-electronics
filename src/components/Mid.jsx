@@ -4,6 +4,7 @@ import { TiTick } from "react-icons/ti";
 import { FaWallet } from "react-icons/fa";
 import { FaHeadphonesAlt } from "react-icons/fa";
 import Headphones from '../assets/headphone.png'
+import "slick-carousel/slick/slick.css";
 
 const Mid = () => {
   return (

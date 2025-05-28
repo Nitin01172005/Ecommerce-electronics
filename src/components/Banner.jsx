@@ -1,5 +1,8 @@
 import React from 'react'
 import Img from '../assets/smartwatch2-removebg-preview.png'
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css"; // if you want theme styles
+
 const Banner = () => {
   return (
     <div className='py-10 pt-40 mb-20 container'>

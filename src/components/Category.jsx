@@ -5,6 +5,8 @@ import LapImg from '../assets/macbook.png';
 import GamImg from '../assets/gaming.png';
 import VrImg from '../assets/vr.png';
 import SpeakImg from '../assets/speaker.png'
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css"; // if you want theme styles
 
 const Category = () => {
   return (

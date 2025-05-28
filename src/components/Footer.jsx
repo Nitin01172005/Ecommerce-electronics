@@ -4,6 +4,10 @@ import { FaInstagram } from "react-icons/fa6";
 import { FaLinkedin } from "react-icons/fa";
 import { FaLocationArrow } from "react-icons/fa";
 import { FaMobileAlt } from "react-icons/fa";
+import "slick-carousel/slick/slick.css";
+
+
+
 const Footer = () => {
   return (
     <div className='pt-10 py-10 ' >

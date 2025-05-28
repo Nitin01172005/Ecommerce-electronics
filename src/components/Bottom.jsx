@@ -4,6 +4,8 @@ import Img2 from '../assets/br-2.png';
 import Img3 from '../assets/br-3.png';
 import Img4 from '../assets/br-4.png';
 import Img5 from '../assets/br-5.png';
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css"; // if you want theme styles
 
 
 

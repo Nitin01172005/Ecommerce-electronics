@@ -2,6 +2,7 @@ import React from 'react'
 import Img1 from '../assets/blog-1.jpg';
 import Img2 from '../assets/blog-2.jpg';
 import Img3 from '../assets/blog-3.jpg';
+import "slick-carousel/slick/slick.css";
 
 const NewsData = [
   
