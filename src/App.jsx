@@ -1,5 +1,6 @@
 import React from 'react'
-import Navbar from './Components/Navbar'
+import Navbar from "./Components/Navbar.jsx";
+
 import Hero from './Components/Hero'
 import Category from './Components/Category'
 import Mid from './Components/Mid'
