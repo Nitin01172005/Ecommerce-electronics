@@ -1,7 +1,7 @@
 import { MdSearch } from "react-icons/md";
 import { IoCartSharp } from "react-icons/io5";
 import DarkMode from "../Components/Darkmode";
-import Darkmode from "./Darkmode";
+
 import "slick-carousel/slick/slick.css";
 import { MdArrowDropDown } from "react-icons/md";
 
